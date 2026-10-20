@@ -1,0 +1,6 @@
+{
+  "name": "Barbiecore BDS Dental Materials Crash Notes",
+  "description": "Complete BDS Dental Materials high-yield crash notes, exam callouts, comparison tables, and interactive 3D material models in an ultra-girly Barbiecore study aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
